@@ -21,7 +21,11 @@ I'm a passionate computer science student at Cal Poly SLO with a focus on comput
 
 ## 🚀 About Me
 
-- 🔍 **Areas of Interest:** I have a keen interest in computer vision and am currently working on my senior project in this field.
+- 🔍 **Areas of Interest:** I have a keen interest in computer vision and robotics. A couple large projects I've been involved in include:
+
+- Collaborating in a multidisciplnary team to build and program two autonomous drones for search and rescue
+- Designing a self-driving car system for an international competition as part of the 2024 American Controls Conference
+- 
 - 🎓 **Education:** I'm pursuing a degree in Computer Science at California Polytechnic State University, San Luis Obispo.
 
 ## 📫 Let's Connect
