@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Alfred Tran!
 
-I'm a passionate computer science graduate from Cal Poly SLO with a focus on computer vision. Currently a rising senior, I'm excited to share my journey in the world of technology.
+I'm a passionate computer science graduate from Cal Poly SLO with a focus on computer vision. I'm excited to share my journey in the world of technology.
 
 ## 🚀 About Me
 
