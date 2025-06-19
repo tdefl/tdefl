@@ -10,7 +10,7 @@ I'm a passionate computer science graduate from Cal Poly SLO, where my studies f
 
 ## 🛠️ Current Projects
 
-### 🧾 [SafePlate Technologies](https://safeplate.tech) – Contract Developer
+### 🧾 [SafePlate Technologies](https://www.safeplatetech.com/) – Contract Developer
 - Leading frontend development using React and Tailwind CSS.
 - Building a responsive UI based on Figma designs to deliver food safety data to users.
 - Developing a **KivyMD-based GUI** for custom testing devices used in allergen detection.
