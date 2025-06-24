@@ -31,7 +31,7 @@ I'm a passionate computer science graduate from Cal Poly SLO, where my studies f
 
 **Languages:** Python, C++, JavaScript, C  
 **Frameworks:** React, Flask, Node.js, KivyMD, Kivy
-**AI/ML:** YOLOv5, OpenCV, TensorRT, TensorFlow Lite  
+**AI/ML:** scikit-learn, Pandas, YOLOv5, OpenCV, TensorRT, TensorFlow Lite  
 **Embedded/Robotics:** Nvidia Jetson, Raspberry Pi, PX4, MAVSDK  
 **Dev Tools:** Git, Docker, Vite, VS Code, Linux  
 **UI/UX:** Tailwind CSS, Figma, React Three Fiber, Three.js  
